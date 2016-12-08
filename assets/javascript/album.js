@@ -2,9 +2,9 @@
  * This global array holds our collection of albums
  */
 var albums = [{
-  title: "The White Album",
-  band:  "The Beatles",
-  year:  1968
+  title: "christian",
+  band:  "French",
+  year:  1994
 }];
 
 
